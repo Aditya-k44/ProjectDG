@@ -1,0 +1,59 @@
+.carousel-item {
+    height: 45rem;
+} 
+img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    background-size: cover;
+  }
+  .imgT{
+    width: 50%;
+    height: 100%;
+    display: block;
+    background-size: cover;
+    float: right;
+  }
+  .navbar-brand{
+    font-size: xx-large;
+    font-weight: 700;
+  }
+  .nav-item{
+    font-size: x-large;
+    font-weight: 700;
+  }
+p{
+    font-size: x-large;
+    font-weight: 400; 
+}
+section{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.space{
+    margin-top: 5%;
+}
+.containerT {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+img {
+    max-width: 100%;
+    max-height:auto;
+  }
+  
+  .imgH{
+    position: absolute;
+    top: 0;
+    z-index: -1;
+  }
+  .text {
+    font-size: 20px;
+    padding-right: 30px;
+  }
+  .containerG {
+    display: flex;
+  }
